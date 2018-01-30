@@ -1,5 +1,7 @@
 # Concurrent-Java-Coursera
 [Coursera Verified Certificate](https://www.coursera.org/account/accomplishments/certificate/2YRK37SR6FUN)
+
+
 WEEK 1 --> [Create a Concurrent Data Structure using Java ReentrantLock & ReentrantReadWriteLock](miniproject_1/src/main/java/edu/coursera/concurrent/CoarseLists.java)
 
 WEEK 2 --> [Thread Safe Bank Transaction using Critical Section ( Isolated in PCDP )](miniproject_2/src/main/java/edu/coursera/concurrent/)
