@@ -1,6 +1,6 @@
 # Concurrent-Java-Coursera
 
-WEEK 1 --> Create a Concurrent Data Structure using Java ReentrantLock & ReentrantReadWriteLock
+WEEK 1 --> [Create a Concurrent Data Structure using Java ReentrantLock & ReentrantReadWriteLock](miniproject_1/src/main/java/edu/coursera/concurrent/CoarseLists.java)
 
 WEEK 2 --> Thread Safe Bank Transaction using Critical Section ( Isolated in PCDP )
 
